@@ -1,0 +1,1 @@
+Dictionary Cloud is a startup project of cloud based dictionary writing system. The idea is to develop a network for users who want to be part of big team of dictionary writers. The cloud based softwares will allow to create, edit, review and vote for translations created by other users from website and mobile devices as well.
